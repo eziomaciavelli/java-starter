@@ -12,7 +12,6 @@ public class Main {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(reader.readLine());
 
-        //вызов метода convertNumToWords...
         Convert.convertNumToWords(num);
     }
 }
