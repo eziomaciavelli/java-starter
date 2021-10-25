@@ -1,5 +1,7 @@
 package javastarter.homework.tasks.task12;
 
+
+//если число отрицательное ввести -1, положительное 1, если 0 ввести 0...
 import java.util.Scanner;
 
 public class Main {
