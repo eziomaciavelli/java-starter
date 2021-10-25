@@ -7,7 +7,7 @@ public class Solution {
         for (int i = 0; i <= num; i++) {
             if (s.equalsIgnoreCase(String.valueOf(false))) {
                 System.out.print(ch);
-            } else if (s.equalsIgnoreCase(String.valueOf(true))){
+            } else {
                 System.out.println(ch);
             }
         }
