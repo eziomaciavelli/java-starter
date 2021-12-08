@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//foo(1,5,2) -> 1^2=1; 2^2=4; 3^2=9, 4^2=16, 5^2=25
+//Возведение в степень N раз. Пример: foo(1,5,2) -> 1^2=1; 2^2=4; 3^2=9, 4^2=16, 5^2=25
 public class Main {
     public static void main(String[] args) throws IOException {
 
