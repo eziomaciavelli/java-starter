@@ -16,6 +16,7 @@ public class Main {
         System.out.print("Введите индекс: ");
         int num = Integer.parseInt(reader.readLine());
 
+
         Solution.findSymbol(s,num);
     }
 }
