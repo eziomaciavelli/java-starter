@@ -11,6 +11,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println(Solution.checkNumEquals(sc.nextInt(), sc.nextInt(), sc.nextInt(), sc.nextInt()));
+        boolean b = Solution.checkNumEquals(sc.nextInt(), sc.nextInt(), sc.nextInt(), sc.nextInt());
+        System.out.println(b);
     }
 }
