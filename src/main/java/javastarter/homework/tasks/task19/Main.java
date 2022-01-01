@@ -7,5 +7,7 @@ package javastarter.homework.tasks.task19;
 public class Main {
     public static void main(String[] args) {
 
+        String text = "HeLLo WorLD";
+        System.out.println(Solution.reverseCase(text));
     }
 }
